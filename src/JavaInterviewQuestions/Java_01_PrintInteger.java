@@ -14,9 +14,18 @@ public class Java_01_PrintInteger {
 		int num = reader.nextInt();
 		
 		System.out.println("You entered "+ num);
+		System.out.println("huseyin tarafindan degistirild");
 
+
+    
+    
+  //  <<<<<<< said
 		System.out.println("said tarafindan degistirildi");
 
+
+
+		System.out.println("Muhammet adini yazdi");
+//>>>>>>> master
 	}
 
 }
