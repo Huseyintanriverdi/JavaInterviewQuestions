@@ -15,6 +15,18 @@ public class Java_01_PrintInteger {
 		
 		System.out.println("You entered "+ num);
 
+
+
+
+
+
+
+
+
+
+
+
+		System.out.println("Muhammet adini yazdi");
 	}
 
 }
