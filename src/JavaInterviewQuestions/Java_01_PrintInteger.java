@@ -17,6 +17,18 @@ public class Java_01_PrintInteger {
 		System.out.println("huseyin tarafindan degistirild");
 
 
+
+
+
+
+
+
+
+
+
+
+
+		System.out.println("Muhammet adini yazdi");
 	}
 
 }
