@@ -14,6 +14,7 @@ public class Java_01_PrintInteger {
 		int num = reader.nextInt();
 		
 		System.out.println("You entered "+ num);
+		//emrehan tarafından değistirildi
 
 	}
 
