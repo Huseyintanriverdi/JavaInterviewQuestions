@@ -15,6 +15,8 @@ public class Java_01_PrintInteger {
 		
 		System.out.println("You entered "+ num);
 
+		System.out.println("said tarafindan degistirildi");
+
 	}
 
 }
