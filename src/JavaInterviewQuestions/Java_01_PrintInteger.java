@@ -17,18 +17,15 @@ public class Java_01_PrintInteger {
 		System.out.println("huseyin tarafindan degistirild");
 
 
-
-
-
-
-
-
-
-
+    
+    
+  //  <<<<<<< said
+		System.out.println("said tarafindan degistirildi");
 
 
 
 		System.out.println("Muhammet adini yazdi");
+//>>>>>>> master
 	}
 
 }
