@@ -17,6 +17,7 @@ public class Java_01_PrintInteger {
 //Adem - deneme
 
 		//saat 19:05
+		//saat 20:05
 	}
 
 }
