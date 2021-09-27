@@ -16,6 +16,30 @@ public class Java_01_PrintInteger {
 		System.out.println("You entered "+ num);
 		//emrehan tarafından değistirildi
 
+
+    
+  
+    //Adem - deneme
+
+		System.out.println("cagatay tarafindan degistirildi");
+
+
+
+		System.out.println("huseyin tarafindan degistirild");
+
+
+
+	 System.out.println("elif tarafindan degistirildi");
+    
+    
+  //  <<<<<<< said
+		System.out.println("said tarafindan degistirildi");
+
+
+
+		System.out.println("Muhammet adini yazdi");
+//>>>>>>> master
+
 	}
 
 }
