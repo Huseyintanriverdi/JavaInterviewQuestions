@@ -29,7 +29,7 @@ public class Java_01_PrintInteger {
 
 
 
-	 System.out.println("elif tarafindan degistirildi)";
+	 System.out.println("elif tarafindan degistirildi");
     
     
   //  <<<<<<< said
