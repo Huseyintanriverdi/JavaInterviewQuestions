@@ -14,13 +14,22 @@ public class Java_01_PrintInteger {
 		int num = reader.nextInt();
 		
 		System.out.println("You entered "+ num);
+		//emrehan tarafından değistirildi
+
+
+    
+  
+    //Adem - deneme
+
+		System.out.println("cagatay tarafindan degistirildi");
+
 
 
 		System.out.println("huseyin tarafindan degistirild");
 
 
 
-	 System.out.println("elif tarafindan degistirildi)";
+	 System.out.println("elif tarafindan degistirildi");
     
     
   //  <<<<<<< said
@@ -30,6 +39,7 @@ public class Java_01_PrintInteger {
 
 		System.out.println("Muhammet adini yazdi");
 //>>>>>>> master
+
 	}
 
 }
