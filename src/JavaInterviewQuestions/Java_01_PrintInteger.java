@@ -14,6 +14,12 @@ public class Java_01_PrintInteger {
 		int num = reader.nextInt();
 		
 		System.out.println("You entered "+ num);
+
+
+    
+  
+    //Adem - deneme
+
 		System.out.println("cagatay tarafindan degistirildi");
 
 
@@ -32,6 +38,7 @@ public class Java_01_PrintInteger {
 
 		System.out.println("Muhammet adini yazdi");
 //>>>>>>> master
+
 	}
 
 }
