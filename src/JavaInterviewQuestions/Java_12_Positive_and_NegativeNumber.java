@@ -1,6 +1,7 @@
 package JavaInterviewQuestions;
 
-public class Java_12_Positive_and_NegativeNumber {
+public class
+Java_12_Positive_and_NegativeNumber {
 
 	public static void main(String[] args) {
 		

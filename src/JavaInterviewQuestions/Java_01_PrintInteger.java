@@ -7,7 +7,7 @@ public class Java_01_PrintInteger {
 	public static void main(String[] args) {
 		
 		//Question: Print an integer getting input from user
-		
+		/*
 		Scanner reader = new Scanner(System.in);
 		System.out.println("Enter a number: ");
 		
@@ -34,10 +34,15 @@ public class Java_01_PrintInteger {
     
   //  <<<<<<< said
 		System.out.println("said tarafindan degistirildi");
+*/
 
 
+		//Muhammet
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Geben Sie bitte ein Integer ein, um sie zu schreiben");
+		int a=scan.nextInt();
+		System.out.println("Die eingegebene Integer ist : " + a);
 
-		System.out.println("Muhammet adini yazdi");
 //>>>>>>> master
 
 	}
