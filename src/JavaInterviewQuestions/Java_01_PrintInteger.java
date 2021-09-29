@@ -7,6 +7,15 @@ public class Java_01_PrintInteger {
 	public static void main(String[] args) {
 		
 		//Question: Print an integer getting input from user
+
+		//elif
+
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Lutfen bir sayi giriniz");
+		int num= scan.nextInt();
+		System.out.println("Girdiginiz sayi: " +num);
+
+
 		/*
 		Scanner reader = new Scanner(System.in);
 		System.out.println("Enter a number: ");
@@ -38,10 +47,10 @@ public class Java_01_PrintInteger {
 
 
 		//Muhammet
-		Scanner scan=new Scanner(System.in);
-		System.out.println("Geben Sie bitte ein Integer ein, um sie zu schreiben");
-		int a=scan.nextInt();
-		System.out.println("Die eingegebene Integer ist : " + a);
+//		Scanner scan=new Scanner(System.in);
+//		System.out.println("Geben Sie bitte ein Integer ein, um sie zu schreiben");
+//		int a=scan.nextInt();
+//		System.out.println("Die eingegebene Integer ist : " + a);
 
 //>>>>>>> master
 
