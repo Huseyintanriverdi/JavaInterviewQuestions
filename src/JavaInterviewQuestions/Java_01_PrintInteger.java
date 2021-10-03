@@ -7,8 +7,16 @@ public class Java_01_PrintInteger {
 	public static void main(String[] args) {
 		
 		//Question: Print an integer getting input from user
+
+
+		// Canan cozum
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Bir sayi giriniz:");
+		int sayi = scan.nextInt();
+		System.out.println("Girdiginiz sayi: " + sayi);
+
 		
-		Scanner reader = new Scanner(System.in);
+	/*	Scanner reader = new Scanner(System.in);
 		System.out.println("Enter a number: ");
 		
 		int num = reader.nextInt();
@@ -38,7 +46,7 @@ public class Java_01_PrintInteger {
 
 
 		System.out.println("Muhammet adini yazdi");
-//>>>>>>> master
+//>>>>>>> master*/
 
 	}
 
